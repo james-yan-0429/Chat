@@ -60,8 +60,8 @@ Secrets.GOOGLE_MAPS_API_KEY  // 'abcdefgh'
 
 ## If you need backend API, please contact me.
 
-Email: MonteCristo-0429@outlook.com
-Skype: live:.cid.d379550070c36060
+Email:  MonteCristo-0429@outlook.com
+Skype:  live:.cid.d379550070c36060
 
 The `.env` file is ignored by git keeping those secrets out of your repo.
 
